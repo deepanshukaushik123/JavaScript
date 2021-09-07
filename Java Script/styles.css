@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(248, 252, 11);
+    background-color: rgb(189, 59, 189);
+    border: 1px solid rgb(36, 33, 33);
+    text-align: center;
+  }
+  
+  p {
+    color: red;
+    background-color: black;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;
+    font-size:medium;
+    margin-left: 2.5cm;
+    margin-right: 3.5cm;
+  }
+  body {
+    background-color: rgb(221, 221, 159);
+    
+  }
+  form {
+    color: black;
+    text-align: center;
+    font-size: larger;
+  }
+
+  button {
+    color: gray;
+    text-align: center;
+  }

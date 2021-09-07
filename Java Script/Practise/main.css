@@ -1,0 +1,59 @@
+/* Classes are called by .name {
+
+    }
+   ID's are called by #name {
+
+   }
+   Attributes are called by [type='radio'] {
+
+   }  */
+body {
+    background-color: rgb(24, 33, 55);
+    margin: 0.5;
+    padding: auto;
+
+}
+
+ #menu {
+    color: rgb(241, 161, 21);
+
+ }  
+
+header {
+    font-family: Arial, sans-serif;
+    background-color: darkolivegreen;
+}
+.Header {
+    background-color: silver;
+    border-width: 10px;
+    border-color: black;
+    border-style:double;
+    padding-right: 2cm;
+    border-radius: 5cm;
+    color: maroon;
+    text-align: right;
+    font-size: 0.6cm;
+    font-family: sans-serif;
+    margin: 1cm;
+}
+
+img {
+    border-style: double;
+    padding-top: 0cm;
+    width: 350px;
+    margin-left: 0cm;
+    border-radius: 9%;
+   /* padding-top: 5cm; */
+   /* margin-top: 55%; */
+   /* padding: 5%; */
+   margin: 5cm;
+}
+
+img2 {
+    border-radius: 12px;
+    padding-top: 2cm;
+    width: 350px;
+    grid-auto-columns: auto;
+    margin-left: 2.5cm;
+}
+
